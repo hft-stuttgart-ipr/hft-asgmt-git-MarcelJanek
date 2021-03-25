@@ -1,8 +1,8 @@
-![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-git-USERNAME/workflows/GitHub%20Classroom%20Workflow/badge.svg)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-git-MarcelJanek/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 
 
 # hft-asgmt-git 
 
 ## TODO
-- [ ] Create an index.html file
-- [ ] Push in repo
+- [X] Create an index.html file
+- [X] Push in repo
